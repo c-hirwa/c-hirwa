@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**c-hirwa/c-hirwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a personal portfolio and projects
 - 🌱 I’m currently learning a little bit of everything
 - 👯 I’m looking to collaborate on open-source projects and hackathons
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email: c.hirwa@alustudent.com | LinkedIn: chris-hirwa
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My social anxiety has social anxiety
--->
